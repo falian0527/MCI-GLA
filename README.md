@@ -1,2 +1,2 @@
 # MCI-GLA
-data
+Codes and weights will be uploaded soon。
